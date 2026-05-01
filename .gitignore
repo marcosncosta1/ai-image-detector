@@ -47,3 +47,4 @@ Thumbs.db
 mlflow_run_id.txt
 labels.json
 /models
+/data
